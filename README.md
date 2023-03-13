@@ -15,9 +15,7 @@ https://drive.google.com/drive/folders/1YYVxSOkcks3aqUbO1K5wiPsoN6lJJCe-?usp=sha
 
 https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?resource=download
 
-*Integrante:*
-
-Aramis Chang Chain, RGM: 8813440250
+*Integrante:* Aramis Chang Chain, RGM: 8813440250
 
 *Instituição:* Universidade Positivo
 
